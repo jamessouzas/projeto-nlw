@@ -1,4 +1,4 @@
-<svg width="8" height="844" viewBox="0 0 8 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="8" height="930" viewBox="0 0 8 930" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="8" height="1" transform="matrix(-1 0 0 1 8 4)" fill="white" fill-opacity="0.1"/>
 <rect width="8" height="1" transform="matrix(-1 0 0 1 8 13)" fill="white" fill-opacity="0.1"/>
 <rect width="8" height="1" transform="matrix(-1 0 0 1 8 22)" fill="white" fill-opacity="0.1"/>
@@ -93,4 +93,8 @@
 <rect width="8" height="1" transform="matrix(-1 0 0 1 8 823)" fill="white" fill-opacity="0.1"/>
 <rect width="8" height="1" transform="matrix(-1 0 0 1 8 832)" fill="white" fill-opacity="0.1"/>
 <rect width="8" height="1" transform="matrix(-1 0 0 1 8 841)" fill="white" fill-opacity="0.1"/>
+<rect width="8" height="1" transform="matrix(-1 0 0 1 8 850)" fill="white" fill-opacity="0.1"/>
+<rect width="8" height="1" transform="matrix(-1 0 0 1 8 859)" fill="white" fill-opacity="0.1"/>
+<rect width="8" height="1" transform="matrix(-1 0 0 1 8 868)" fill="white" fill-opacity="0.1"/>
+<rect width="8" height="1" transform="matrix(-1 0 0 1 8 877)" fill="white" fill-opacity="0.1"/>
 </svg>
